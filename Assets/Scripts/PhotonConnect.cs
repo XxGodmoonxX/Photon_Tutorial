@@ -36,14 +36,4 @@ public class PhotonConnect : MonoBehaviour {
 
 		Debug.Log("Disconnect from photon");
 	}
-
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

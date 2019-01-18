@@ -184,6 +184,7 @@
      <Compile Include="Assets\Photon Unity Networking\UtilityScripts\UI\ButtonInsideScrollList.cs" />
      <Compile Include="Assets\Photon Unity Networking\UtilityScripts\UI\TextButtonTransition.cs" />
      <Compile Include="Assets\Photon Unity Networking\UtilityScripts\UI\TextToggleIsOnTransition.cs" />
+     <Compile Include="Assets\PhotonButtons.cs" />
      <Compile Include="Assets\PhotonChatApi\ChatChannel.cs" />
      <Compile Include="Assets\PhotonChatApi\ChatClient.cs" />
      <Compile Include="Assets\PhotonChatApi\ChatDisconnectCause.cs" />
@@ -194,11 +195,11 @@
      <Compile Include="Assets\PhotonChatApi\ChatState.cs" />
      <Compile Include="Assets\PhotonChatApi\ChatUserStatus.cs" />
      <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
+     <Compile Include="Assets\photonHandler.cs" />
+     <Compile Include="Assets\plMove.cs" />
      <Compile Include="Assets\Scripts\DemoNetWork.cs" />
      <Compile Include="Assets\Scripts\menuLogic.cs" />
-     <Compile Include="Assets\Scripts\PhotonButtons.cs" />
      <Compile Include="Assets\Scripts\PhotonConnect.cs" />
-     <Compile Include="Assets\Scripts\photonHandler.cs" />
      <Compile Include="Assets\Scripts\PhotonManager.cs" />
      <None Include="Assets\Photon Unity Networking\Demos\MarcoPolo-Tutorial\marcopolo-readme.txt" />
      <None Include="Assets\Photon Unity Networking\link.xml" />
