@@ -198,6 +198,7 @@
      <Compile Include="Assets\Scripts\menuLogic.cs" />
      <Compile Include="Assets\Scripts\PhotonButtons.cs" />
      <Compile Include="Assets\Scripts\PhotonConnect.cs" />
+     <Compile Include="Assets\Scripts\photonHandler.cs" />
      <Compile Include="Assets\Scripts\PhotonManager.cs" />
      <None Include="Assets\Photon Unity Networking\Demos\MarcoPolo-Tutorial\marcopolo-readme.txt" />
      <None Include="Assets\Photon Unity Networking\link.xml" />

@@ -5,7 +5,8 @@ using UnityEngine.UI;
 
 public class PhotonButtons : MonoBehaviour {
 
-	public menuLogic mLogic;
+	// public menuLogic mLogic;
+	public photonHandler pHandler;
 
 	public InputField joinRoomInput, createRoomInput;
 
